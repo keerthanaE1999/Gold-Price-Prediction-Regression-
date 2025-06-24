@@ -69,7 +69,8 @@ This project uses a *Random Forest Regressor* to predict gold prices based on va
 ---
 ##📌 Conclusion
 
-This project showcases how Random Forest can effectively predict gold prices by leveraging multiple financial variables. The model performs well with strong R² scores and low error metrics.
+This project showcases how Random Forest can effectively predict gold prices by leveraging multiple financial variables. 
+The model performs well with strong R² scores and low error metrics.
 
 ---
 ## 🛠 Requirements
